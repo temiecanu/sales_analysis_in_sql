@@ -142,4 +142,4 @@ sales_analysis_in_sql/
 ---
 
 ## Author
-Artemie Țurcanu — Data Analyst.
+Artemie Țurcanu — Data Analyst
