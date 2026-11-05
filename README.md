@@ -1,5 +1,7 @@
 # Sales Analysis in SQL
 
+Portfolio project built to simulate real business scenario and analytical tasks I encountered in my work.
+
 ## Project Overview
 Analysis of customer behavior, retention, and lifetime value for an e-commerce company to improve customer retention and maximize revenue.
 
